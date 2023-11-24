@@ -1,2 +1,2 @@
-# Airline Project store in airline branch
+# Airline Project stored in airplane branch
 Author : Bhushan Sapkal
